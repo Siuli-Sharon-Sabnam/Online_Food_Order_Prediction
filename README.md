@@ -39,5 +39,12 @@ This project aims to predict customer behavior in online food ordering using mac
 
 ---
 
-## 📁 Project Structure
+## 📈 Results
+
+- **Model Accuracy**: Approximately 85.8%
+- **Key Influencing Factors**:
+  - Age
+  - Occupation
+  - Feedback
+- **Business Implications**: The insights derived from the model can help businesses tailor their marketing strategies to target specific customer segments, potentially increasing order volumes and enhancing customer satisfaction.
 
